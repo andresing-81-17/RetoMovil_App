@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navRegister"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Register User"
+        ></item>
+
+    <item
+        android:id="@+id/navListUser"
+        android:icon="@drawable/ic_baseline_assignment_24"
+        android:title="List User"
+        ></item>
+
+    <item
+        android:id="@+id/navInformation"
+        android:icon="@drawable/ic_baseline_error_outline_24"
+        android:title="Information User"
+        ></item>
+</menu>
